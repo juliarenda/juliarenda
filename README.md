@@ -21,7 +21,7 @@
   <img align="center" alt="Vi-XD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg">
   <img align="center" alt="Vi-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Vi-Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
-  <img align="right" alt="Vi-pic" height="150" style="border-radius:50px" src="https://thumbs2.imgbox.com/a4/a4/MnKEBHEW_t.png">
+  <img align="right" alt="Vi-pic" height="150" style="border-radius:50px;" src="https://thumbs2.imgbox.com/a4/a4/MnKEBHEW_t.png">
 </div>
   
   ##
