@@ -1,6 +1,6 @@
 ### Hi, stranger! It's Vithória here 👋
 
-- 🎯 Level 21 in the game of life
+- 🎯 Level 22 in the game of life
 - 💻 Front-end Developer
 - ✒️ UX/UI Designer
 <div align="center">
