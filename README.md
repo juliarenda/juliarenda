@@ -1,6 +1,6 @@
 ### Hi, stranger! 👋
 
-- 🎯 Level 22 in the game of life
+- 🎯 Level 24 in the game of life
 - 💻 Front-end Developer
 - ✒️ UX/UI Designer
 <div align="center">
