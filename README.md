@@ -1,4 +1,4 @@
-### Hi, stranger! It's Vithória here 👋
+### Hi, stranger! 👋
 
 - 🎯 Level 22 in the game of life
 - 💻 Front-end Developer
